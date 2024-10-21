@@ -33,7 +33,7 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Replace 'YOUR_API_KEY' with your actual API key
-    $apiKey = '986b22f635ee44dcb4264834242105';
+    $apiKey = 'YOUR_API_KEY';
     $city = $_POST['city'];
 
     // Create API URL
